@@ -14,8 +14,8 @@
         }
     ],
     "require": {
-        "php": "~5.5 || ~7.0",
-        "requtize/fresh-file": "~0.2"
+        "php": "~8.0",
+        "requtize/fresh-file": "~0.3"
     },
     "require-dev": {
         "leafo/scssphp": "~0.6",
