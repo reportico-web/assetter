@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "~8.0",
-        "requtize/fresh-file": "~0.3"
+        "reportico/fresh-file": "8.1.0"
     },
     "require-dev": {
         "leafo/scssphp": "~0.6",
